@@ -1,0 +1,18 @@
+.Louie {
+  font-family: fantasy;
+  color: purple;
+  width: 50%;
+  background-color: yellowgreen;
+}
+
+.about {
+  background-color: black;
+  color: white;
+  font-style: italic;
+}
+
+.hr {
+  font-family: monospace;
+  background-color: gray;
+  width: 50%;
+}
